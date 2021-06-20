@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @sasikanthkanigolla
 - 👀 I’m interested in tech
 - 🌱 I’m currently learning machine_learning
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me sasikanthkanigolla@gmail.com
 
 <!---
 sasikanthkanigolla/sasikanthkanigolla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
